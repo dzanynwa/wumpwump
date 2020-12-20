@@ -1,0 +1,148 @@
+  [
+    {
+      "visited": true,
+      "x": 1,
+      "y": 1,
+      "value": "start",
+      "agent": true,
+      "image1": "/images/Start.png",
+      "image2": "/images/Start2.png"
+    },
+    {
+      "visited": false,
+      "x": 2,
+      "y": 1,
+      "value": "breeze",
+      "agent": false,
+      "image1": "./Images/Breeze.png",
+      "image2": "./Images/Breeze2.png"
+    },
+    {
+      "visited": false,
+      "x": 3,
+      "y": 1,
+      "value": "pit",
+      "agent": false,
+      "image1": "./Images/Pit.png",
+      "image2": "./Images/Pit2.png"
+    },
+    {
+      "visited": false,
+      "x": 4,
+      "y": 1,
+      "value": "breeze",
+      "agent": false,
+      "image1": "./Images/Breeze.png",
+      "image2": "./Images/Breeze2.png"
+    },
+
+    {
+      "visited": false,
+      "x": 1,
+      "y": 2,
+      "value": "stench",
+      "agent": false,
+      "image1": "./Images/Stench.png",
+      "image2": "./Images/Stench2.png"
+    },
+    {
+      "visited": false,
+      "x": 2,
+      "y": 2,
+      "value": "free",
+      "agent": false,
+      "image1": "./Images/Free.png",
+      "image2": "./Images/Free2.png"
+    },
+    {
+      "visited": false,
+      "x": 3,
+      "y": 2,
+      "value": "breeze",
+      "agent": false,
+      "image1": "./Images/Breeze.png",
+      "image2": "./Images/Breeze2.png"
+    },
+    {
+      "visited": false,
+      "x": 4,
+      "y": 2,
+      "value": "free",
+      "agent": false,
+      "image1": "./Images/Free.png",
+      "image2": "./Images/Free2.png"
+    },
+    {
+      "visited": false,
+      "x": 1,
+      "y": 3,
+      "value": "wumpus",
+      "agent": false,
+      "image1": "./Images/Wumpus.png",
+      "image2": "./Images/Wumpus2.png"
+    },
+    {
+      "visited": false,
+      "x": 2,
+      "y": 3,
+      "value": "gold",
+      "agent": false,
+      "image1": "./Images/Gold.png",
+      "image2": "./Images/Gold2.png"
+    },
+    {
+      "visited": false,
+      "x": 3,
+      "y": 3,
+      "value": "pit",
+      "agent": false,
+      "image1": "./Images/Pit.png",
+      "image2": "./Images/Pit2.png"
+    },
+    {
+      "visited": false,
+      "x": 4,
+      "y": 3,
+      "value": "breeze",
+      "agent": false,
+      "image1": "./Images/Breeze.png",
+      "image2": "./Images/Breeze2.png"
+    },
+    {
+      "visited": false,
+      "x": 1,
+      "y": 4,
+      "value": "stench",
+      "agent": false,
+      "image1": "./Images/Stench.png",
+      "image2": "./Images/Stench2.png"
+    },
+    {
+      "visited": false,
+      "x": 2,
+      "y": 4,
+      "value": "free",
+      "agent": false,
+      "image1": "./Images/Free.png",
+      "image2": "./Images/Free2.png"
+    },
+    {
+      "visited": false,
+      "x": 3,
+      "y": 4,
+      "value": "breeze",
+      "agent": false,
+      "image1": "./Images/Breeze.png",
+      "image2": "./Images/Breeze2.png"
+    },
+
+    {
+      "visited": false,
+      "x": 4,
+      "y": 4,
+      "value": "pit",
+      "agent": false,
+      "image1": "./Images/Pit.png",
+      "image2": "./Images/Pit2.png"
+    }
+  ]
