@@ -1,13 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
-import Tiles from './Tiles';
+import Game from './Game';
+import { TileContainer } from './style';
 
 function App() {
 
   return (
-    <div style={{textAlign: 'center', margin: '0 auto'}}>
-     <Tiles /> 
-    </div>
+    <TileContainer>
+        <Game />
+    </TileContainer>
   );
 }
 
